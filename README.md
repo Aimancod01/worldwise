@@ -1,4 +1,5 @@
 #WorldWise App
+
 Project Overview
 WorldWise is a web application that allows users to explore and select locations on a map. The application is built using React and leverages the Context API for state management, React Router for navigation, and React Leaflet for interactive maps.
 
